@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#0B2344"/>
+  <defs>
+    <linearGradient id="g1" x1="151" y1="90" x2="373" y2="290" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2563EB"/><stop offset="0.48" stop-color="#7C5CCB"/><stop offset="1" stop-color="#F18B5B"/></linearGradient>
+    <linearGradient id="g2" x1="86" y1="171" x2="291" y2="415" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.55" stop-color="#93C5FD"/><stop offset="1" stop-color="#F18B5B"/></linearGradient>
+  </defs>
+  <path d="M113 337C58 268 74 169 153 113C103 171 91 248 128 308C168 374 253 401 339 367C258 423 166 405 113 337Z" fill="url(#g2)"/>
+  <path d="M104 314L257 200L409 314L382 326L257 241L132 326L104 314Z" fill="white"/>
+  <path d="M144 304L257 220L370 304L355 313L257 246L159 313L144 304Z" fill="#082244"/>
+  <path d="M178 193L223 160V280L178 304V193Z" fill="url(#g1)"/>
+  <path d="M238 114L291 74V285L238 257V114Z" fill="url(#g1)"/>
+  <path d="M306 126L360 171V304L306 276V126Z" fill="url(#g1)"/>
+  <path d="M373 205L417 239V325L373 303V205Z" fill="url(#g1)"/>
+  <rect x="230" y="326" width="24" height="24" rx="4" fill="white"/>
+  <rect x="263" y="326" width="24" height="24" rx="4" fill="white"/>
+  <rect x="230" y="359" width="24" height="24" rx="4" fill="white"/>
+  <rect x="263" y="359" width="24" height="24" rx="4" fill="white"/>
+</svg>
